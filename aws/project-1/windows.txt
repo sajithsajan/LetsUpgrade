@@ -1,0 +1,3 @@
+Ngnix Installed on Windows 2019 Server
+
+Public IP: http://13.232.184.47/

@@ -1,0 +1,3 @@
+Ngnix Installed on Ubuntu Server 18.04 LTS (HVM)
+
+Public IP : http://35.154.20.181/
